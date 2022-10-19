@@ -2,6 +2,10 @@
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
+## View output
+
+[Click here](https://abiekatkam.github.io/RatingComponents/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
